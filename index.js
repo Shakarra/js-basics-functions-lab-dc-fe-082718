@@ -1,6 +1,8 @@
 // Code your solution in this file!
 //let feet = 43;
-distanceFromHqInBlocks(43) {
+function distanceFromHqBlocks(blockNumber) {
+  return Math.obs(42 - blockNumber)
+  distanceFromHqInBlocks(43) {
   return 1;
 }
 
