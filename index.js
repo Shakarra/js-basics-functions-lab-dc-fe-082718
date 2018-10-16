@@ -3,6 +3,7 @@ function distanceFromHqInBlocks(blockNumber) {
   return Math.abs(42 - blockNumber);
 }
 
+function 
 // distanceFromHqInFeet() {}
 
 //distanceTravelledInFeet(50,42) {
