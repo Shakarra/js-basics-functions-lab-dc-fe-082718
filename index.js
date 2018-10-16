@@ -5,8 +5,8 @@ function distanceFromHqBlocks(blockNumber) {
 
 // distanceFromHqInFeet() {}
 
-distanceTravelledInFeet(50,42) {
-  (50-42) * 264 = 2112
-}
+//distanceTravelledInFeet(50,42) {
+  //(50-42) * 264 = 2112
+//}
 
 // calculatesFarePrice() {}
