@@ -8,7 +8,7 @@ function distanceFromHqInFeet(blockNumber) {
   return numberOfBlocks * 264;
 }
 
-function distanceFromHqInFeet() {}
+function distanceTravelledInFeet() {}
 
 //distanceTravelledInFeet(50,42) {
   //(50-42) * 264 = 2112
