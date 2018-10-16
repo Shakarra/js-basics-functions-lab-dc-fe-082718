@@ -1,5 +1,5 @@
 // Code your solution in this file!
-function distanceFromHqBlocks(blockNumber) {
+function distanceFromHqInBlocks(blockNumber) {
   return Math.abs(42 - blockNumber);
 }
 
