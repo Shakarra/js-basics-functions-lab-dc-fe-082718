@@ -14,7 +14,7 @@ function distanceTravelledInFeet(start, end) {
 }
 
 function calculatesFarePrice(start,destination) {
-  feet = distanceTravelledInFeet 
+  feet = distanceTravelledInFeet(start, destination) 
   if(feet < 400) {
     return 0;
   } else if (feet >= 400 && feet < 2000) {
